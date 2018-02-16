@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="chart_value_1">#2d4302</color>
+    <color name="chart_value_2">#75a80d</color>
+    <color name="chart_value_3">#8fc026</color>
+    <color name="chart_value_4">#B5CC84</color>
+    <color name="pink">#BA68C8</color>
+    <color name="green">#42BD41</color>
+    <color name="orange">#FFB74D</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#f1f1f1</color>
+</resources>
