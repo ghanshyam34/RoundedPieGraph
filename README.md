@@ -1,7 +1,7 @@
 # MyRoundViewGraphEample
 Android Graph for Round view example
 
-[![](https://jitpack.io/)
+[![](https://jitpack.io/#ghanshyam34/R)
    ```
    dependencies {
 	        implementation 'com.github.ghanshyam34:RoundedPieGraph:fcd69a2acb'
